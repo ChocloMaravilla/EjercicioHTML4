@@ -1,0 +1,9 @@
+table, tr, td{
+    border: solid 1px black;
+
+}
+table{
+    display: inline-block;
+    text-align: center;
+    margin-right: 10%;
+}
